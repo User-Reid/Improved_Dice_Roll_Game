@@ -1,0 +1,15 @@
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\bin\Debug\net9.0\Improved_Dice_Roll_Game.exe
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\bin\Debug\net9.0\Improved_Dice_Roll_Game.deps.json
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\bin\Debug\net9.0\Improved_Dice_Roll_Game.runtimeconfig.json
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\bin\Debug\net9.0\Improved_Dice_Roll_Game.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\bin\Debug\net9.0\Improved_Dice_Roll_Game.pdb
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\Improved_Dice_Roll_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\Improved_Dice_Roll_Game.AssemblyInfoInputs.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\Improved_Dice_Roll_Game.AssemblyInfo.cs
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\Improved_Dice_Roll_Game.csproj.CoreCompileInputs.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\Improved_Dice_Roll_Game.sourcelink.json
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\Improved_Dice_Roll_Game.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\refint\Improved_Dice_Roll_Game.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\Improved_Dice_Roll_Game.pdb
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\Improved_Dice_Roll_Game.genruntimeconfig.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\Improved_Dice_Roll_Game\obj\Debug\net9.0\ref\Improved_Dice_Roll_Game.dll
