@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Improved_Dice_Roll_Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6927655ce4162b6a1746f4fc50c4ef177db52b25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48d238270f5e4f17b0dc80f1e15576eccd3faee5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Improved_Dice_Roll_Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Improved_Dice_Roll_Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
